@@ -1,0 +1,195 @@
+@font-face {
+    font-family: 'bitIcon';
+    src:    url('fonts/bitIcon.eot?tlo8o8');
+    src:    url('fonts/bitIcon.eot?tlo8o8#iefix') format('embedded-opentype'),
+        url('fonts/bitIcon.ttf?tlo8o8') format('truetype'),
+        url('fonts/bitIcon.woff?tlo8o8') format('woff'),
+        url('fonts/bitIcon.svg?tlo8o8#bitIcon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'bitIcon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bitIcon-blank:before {
+    content: "\e900";
+}
+.bitIcon-blank-sq:before {
+    content: "\e901";
+}
+.bitIcon-c:before {
+    content: "\e902";
+}
+.bitIcon-c-sq:before {
+    content: "\e903";
+}
+.bitIcon-cpp:before {
+    content: "\e904";
+}
+.bitIcon-cpp-sq:before {
+    content: "\e905";
+}
+.bitIcon-cs:before {
+    content: "\e906";
+}
+.bitIcon-cs-sq:before {
+    content: "\e907";
+}
+.bitIcon-css:before {
+    content: "\e908";
+}
+.bitIcon-css-sq:before {
+    content: "\e909";
+}
+.bitIcon-css3:before {
+    content: "\e90a";
+}
+.bitIcon-css3-sq:before {
+    content: "\e90b";
+}
+.bitIcon-haskell:before {
+    content: "\e90c";
+}
+.bitIcon-haskell-sq:before {
+    content: "\e90d";
+}
+.bitIcon-html:before {
+    content: "\e90e";
+}
+.bitIcon-html-sq:before {
+    content: "\e90f";
+}
+.bitIcon-html5:before {
+    content: "\e910";
+}
+.bitIcon-html5-sq:before {
+    content: "\e911";
+}
+.bitIcon-java:before {
+    content: "\e912";
+}
+.bitIcon-java-alt:before {
+    content: "\e913";
+}
+.bitIcon-java-alt-sq:before {
+    content: "\e914";
+}
+.bitIcon-java-sq:before {
+    content: "\e915";
+}
+.bitIcon-jquery:before {
+    content: "\e916";
+}
+.bitIcon-jquery-hollow:before {
+    content: "\e917";
+}
+.bitIcon-js:before {
+    content: "\e918";
+}
+.bitIcon-js-sq:before {
+    content: "\e919";
+}
+.bitIcon-less:before {
+    content: "\e91a";
+}
+.bitIcon-less-sq:before {
+    content: "\e91b";
+}
+.bitIcon-mysql:before {
+    content: "\e91c";
+}
+.bitIcon-mysql-sq:before {
+    content: "\e91d";
+}
+.bitIcon-node:before {
+    content: "\e91e";
+}
+.bitIcon-node-sq:before {
+    content: "\e91f";
+}
+.bitIcon-objc:before {
+    content: "\e920";
+}
+.bitIcon-objc-sq:before {
+    content: "\e921";
+}
+.bitIcon-perl:before {
+    content: "\e922";
+}
+.bitIcon-perl-sq:before {
+    content: "\e923";
+}
+.bitIcon-php:before {
+    content: "\e924";
+}
+.bitIcon-php-sq:before {
+    content: "\e925";
+}
+.bitIcon-python:before {
+    content: "\e926";
+}
+.bitIcon-python-sq:before {
+    content: "\e927";
+}
+.bitIcon-rails:before {
+    content: "\e928";
+}
+.bitIcon-rails-sq:before {
+    content: "\e929";
+}
+.bitIcon-ruby:before {
+    content: "\e92a";
+}
+.bitIcon-ruby-sq:before {
+    content: "\e92b";
+}
+.bitIcon-sass:before {
+    content: "\e92c";
+}
+.bitIcon-sass-seal:before {
+    content: "\e92d";
+}
+.bitIcon-sass-seal-sq:before {
+    content: "\e92e";
+}
+.bitIcon-sass-sq:before {
+    content: "\e92f";
+}
+.bitIcon-scala:before {
+    content: "\e930";
+}
+.bitIcon-scala-sq:before {
+    content: "\e931";
+}
+.bitIcon-script:before {
+    content: "\e932";
+}
+.bitIcon-script-sq:before {
+    content: "\e933";
+}
+.bitIcon-shell:before {
+    content: "\e934";
+}
+.bitIcon-shell-sq:before {
+    content: "\e935";
+}
+.bitIcon-swift:before {
+    content: "\e936";
+}
+.bitIcon-swift-sq:before {
+    content: "\e937";
+}
+

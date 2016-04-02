@@ -1,0 +1,309 @@
+@import "variables";
+
+@font-face {
+    font-family: 'bitIcon';
+    src:    url('#{$icomoon-font-path}/bitIcon.eot?tlo8o8');
+    src:    url('#{$icomoon-font-path}/bitIcon.eot?tlo8o8#iefix') format('embedded-opentype'),
+        url('#{$icomoon-font-path}/bitIcon.ttf?tlo8o8') format('truetype'),
+        url('#{$icomoon-font-path}/bitIcon.woff?tlo8o8') format('woff'),
+        url('#{$icomoon-font-path}/bitIcon.svg?tlo8o8#bitIcon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'bitIcon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bitIcon-blank {
+    &:before {
+        content: $bitIcon-blank;
+    }
+}
+.bitIcon-blank-sq {
+    &:before {
+        content: $bitIcon-blank-sq;
+    }
+}
+.bitIcon-c {
+    &:before {
+        content: $bitIcon-c;
+    }
+}
+.bitIcon-c-sq {
+    &:before {
+        content: $bitIcon-c-sq;
+    }
+}
+.bitIcon-cpp {
+    &:before {
+        content: $bitIcon-cpp;
+    }
+}
+.bitIcon-cpp-sq {
+    &:before {
+        content: $bitIcon-cpp-sq;
+    }
+}
+.bitIcon-cs {
+    &:before {
+        content: $bitIcon-cs;
+    }
+}
+.bitIcon-cs-sq {
+    &:before {
+        content: $bitIcon-cs-sq;
+    }
+}
+.bitIcon-css {
+    &:before {
+        content: $bitIcon-css;
+    }
+}
+.bitIcon-css-sq {
+    &:before {
+        content: $bitIcon-css-sq;
+    }
+}
+.bitIcon-css3 {
+    &:before {
+        content: $bitIcon-css3;
+    }
+}
+.bitIcon-css3-sq {
+    &:before {
+        content: $bitIcon-css3-sq;
+    }
+}
+.bitIcon-haskell {
+    &:before {
+        content: $bitIcon-haskell;
+    }
+}
+.bitIcon-haskell-sq {
+    &:before {
+        content: $bitIcon-haskell-sq;
+    }
+}
+.bitIcon-html {
+    &:before {
+        content: $bitIcon-html;
+    }
+}
+.bitIcon-html-sq {
+    &:before {
+        content: $bitIcon-html-sq;
+    }
+}
+.bitIcon-html5 {
+    &:before {
+        content: $bitIcon-html5;
+    }
+}
+.bitIcon-html5-sq {
+    &:before {
+        content: $bitIcon-html5-sq;
+    }
+}
+.bitIcon-java {
+    &:before {
+        content: $bitIcon-java;
+    }
+}
+.bitIcon-java-alt {
+    &:before {
+        content: $bitIcon-java-alt;
+    }
+}
+.bitIcon-java-alt-sq {
+    &:before {
+        content: $bitIcon-java-alt-sq;
+    }
+}
+.bitIcon-java-sq {
+    &:before {
+        content: $bitIcon-java-sq;
+    }
+}
+.bitIcon-jquery {
+    &:before {
+        content: $bitIcon-jquery;
+    }
+}
+.bitIcon-jquery-hollow {
+    &:before {
+        content: $bitIcon-jquery-hollow;
+    }
+}
+.bitIcon-js {
+    &:before {
+        content: $bitIcon-js;
+    }
+}
+.bitIcon-js-sq {
+    &:before {
+        content: $bitIcon-js-sq;
+    }
+}
+.bitIcon-less {
+    &:before {
+        content: $bitIcon-less;
+    }
+}
+.bitIcon-less-sq {
+    &:before {
+        content: $bitIcon-less-sq;
+    }
+}
+.bitIcon-mysql {
+    &:before {
+        content: $bitIcon-mysql;
+    }
+}
+.bitIcon-mysql-sq {
+    &:before {
+        content: $bitIcon-mysql-sq;
+    }
+}
+.bitIcon-node {
+    &:before {
+        content: $bitIcon-node;
+    }
+}
+.bitIcon-node-sq {
+    &:before {
+        content: $bitIcon-node-sq;
+    }
+}
+.bitIcon-objc {
+    &:before {
+        content: $bitIcon-objc;
+    }
+}
+.bitIcon-objc-sq {
+    &:before {
+        content: $bitIcon-objc-sq;
+    }
+}
+.bitIcon-perl {
+    &:before {
+        content: $bitIcon-perl;
+    }
+}
+.bitIcon-perl-sq {
+    &:before {
+        content: $bitIcon-perl-sq;
+    }
+}
+.bitIcon-php {
+    &:before {
+        content: $bitIcon-php;
+    }
+}
+.bitIcon-php-sq {
+    &:before {
+        content: $bitIcon-php-sq;
+    }
+}
+.bitIcon-python {
+    &:before {
+        content: $bitIcon-python;
+    }
+}
+.bitIcon-python-sq {
+    &:before {
+        content: $bitIcon-python-sq;
+    }
+}
+.bitIcon-rails {
+    &:before {
+        content: $bitIcon-rails;
+    }
+}
+.bitIcon-rails-sq {
+    &:before {
+        content: $bitIcon-rails-sq;
+    }
+}
+.bitIcon-ruby {
+    &:before {
+        content: $bitIcon-ruby;
+    }
+}
+.bitIcon-ruby-sq {
+    &:before {
+        content: $bitIcon-ruby-sq;
+    }
+}
+.bitIcon-sass {
+    &:before {
+        content: $bitIcon-sass;
+    }
+}
+.bitIcon-sass-seal {
+    &:before {
+        content: $bitIcon-sass-seal;
+    }
+}
+.bitIcon-sass-seal-sq {
+    &:before {
+        content: $bitIcon-sass-seal-sq;
+    }
+}
+.bitIcon-sass-sq {
+    &:before {
+        content: $bitIcon-sass-sq;
+    }
+}
+.bitIcon-scala {
+    &:before {
+        content: $bitIcon-scala;
+    }
+}
+.bitIcon-scala-sq {
+    &:before {
+        content: $bitIcon-scala-sq;
+    }
+}
+.bitIcon-script {
+    &:before {
+        content: $bitIcon-script;
+    }
+}
+.bitIcon-script-sq {
+    &:before {
+        content: $bitIcon-script-sq;
+    }
+}
+.bitIcon-shell {
+    &:before {
+        content: $bitIcon-shell;
+    }
+}
+.bitIcon-shell-sq {
+    &:before {
+        content: $bitIcon-shell-sq;
+    }
+}
+.bitIcon-swift {
+    &:before {
+        content: $bitIcon-swift;
+    }
+}
+.bitIcon-swift-sq {
+    &:before {
+        content: $bitIcon-swift-sq;
+    }
+}
+
