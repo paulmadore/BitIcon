@@ -33,7 +33,9 @@ All glyphs can be made square by appending -sq to the style.
 | bitIcon-java | ![bitIcon-java](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java.svg) | ![bitIcon-java-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-sq.svg) |
 | bitIcon-java-alt | ![bitIcon-java-alt](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-alt.svg) | ![bitIcon-java-alt-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-alt-sq.svg) |
 | bitIcon-js | ![bitIcon-js](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/js.svg) | ![bitIcon-js-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/js-sq.svg) |
-| bitIcon-js-jquery | ![bitIcon-js-jquery]https://cdn.rawgit.com/paulmadore/BitIcon/master/svg/jquery.svg) | ![bitIcon-js-jquery-hollow](https://cdn.rawgit.com/paulmadore/BitIcon/master/svg/jquery-hollow.svg) |
+
+| bitIcon-js-jquery | ![bitIcon-js-jquery](https://cdn.rawgit.com/paulmadore/BitIcon/master/svg/jquery.svg) | ![bitIcon-js-jquery-hollow](https://cdn.rawgit.com/paulmadore/bitIcon/master/svg/jquery-hollow.svg) |
+
 | bitIcon-less | ![bitIcon-less](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/less.svg) | ![bitIcon-less-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/less-sq.svg) |
 | bitIcon-mysql | ![bitIcon-mysql](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/mysql.svg) | ![bitIcon-mysql-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/mysql-sq.svg) |
 | bitIcon-node | ![bitIcon-node](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/node.svg) | ![bitIcon-node-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/node-sq.svg) |
