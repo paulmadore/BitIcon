@@ -1,10 +1,10 @@
-![bitIcon Preview](https://cdn.rawgit.com/bitHero/bitIcon/fa0647acbdeb272a6533e1b60aea4d0ab95d79f4/src/bitIcon-preview.svg)
+# bitIcon++
 
-A simple glyph font with programming language icons.
+A simple glyph font with programming language icons. Takes bitIcon and extends it for specific purposes, namely a jQuery glyph originally.
 
 ## Usage
 
-Download the [latest release](https://github.com/bitHero/bitIcon/releases/latest)  for use on your website. Once you have the css referenced apply the bitIcon class for your icon to an `<i>` tag.
+Download the [latest release](https://github.com/paulmadore/bitIcon/releases/latest)  for use on your website. Once you have the css referenced apply the bitIcon class for your icon to an `<i>` tag.
 
 ```
 <i class="bitIcon-cs"></i>
@@ -33,6 +33,8 @@ All glyphs can be made square by appending -sq to the style.
 | bitIcon-java | ![bitIcon-java](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java.svg) | ![bitIcon-java-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-sq.svg) |
 | bitIcon-java-alt | ![bitIcon-java-alt](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-alt.svg) | ![bitIcon-java-alt-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/java-alt-sq.svg) |
 | bitIcon-js | ![bitIcon-js](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/js.svg) | ![bitIcon-js-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/js-sq.svg) |
+| bitIcon-js-jquery | ![bitIcon-js-jquery](https://phm.link/bitIcon/jquery.svg) | ![bitIcon-js-jquery](https://phm.link/bitIcon/jquery.svg) |
+| bitIcon-js-jquery-hollow | ![bitIcon-js-jquery-hollow](https://phm.link/bitIcon/jquery-hollow.svg) | ![bitIcon-js-jquery-hollow](https://phm.link/bitIcon/jquery-hollow.svg) |
 | bitIcon-less | ![bitIcon-less](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/less.svg) | ![bitIcon-less-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/less-sq.svg) |
 | bitIcon-mysql | ![bitIcon-mysql](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/mysql.svg) | ![bitIcon-mysql-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/mysql-sq.svg) |
 | bitIcon-node | ![bitIcon-node](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/node.svg) | ![bitIcon-node-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/node-sq.svg) |
@@ -47,6 +49,6 @@ All glyphs can be made square by appending -sq to the style.
 | bitIcon-scala | ![bitIcon-scala](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/scala.svg) | ![bitIcon-scala-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/scala-sq.svg) |
 | bitIcon-swift | ![bitIcon-swift](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/swift.svg) | ![bitIcon-swift-sq](https://cdn.rawgit.com/bitHero/bitIcon/master/svg/swift-sq.svg) |
 
-## Requests
+## Contributions
 
-Contact me through my [website](http://www.hawker.cc/).
+You need Inkscape and FontForge to contribute your glyphs. Questions can be posted in issues and will be answered there.
